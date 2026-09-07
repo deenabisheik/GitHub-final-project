@@ -7,7 +7,7 @@ echo"Enter rate of interest:"
 read rate
 
 echo"Enter time period in years:"
-read time
+read time.
 
 simple_interest=$((principle*rate*time/100))
 total_amount=$((principle+simple_interest))
