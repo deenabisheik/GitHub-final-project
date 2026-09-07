@@ -11,4 +11,4 @@ Where:
 .Rate = Rate of interest per year
 .Time = Time period in years
 
-The calculator takes these values as input and calculates the simple interest and total amount
+The calculator takes these values as input and calculates the simple interest and total amount.
